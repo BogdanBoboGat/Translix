@@ -1,0 +1,122 @@
+[
+  {
+    "word": "Hund",
+    "word_en": "dog",
+    "type": "noun",
+    "singular": [
+      "Hund"
+    ],
+    "plural": [
+      "Hunde"
+    ],
+    "definitions": [
+      {
+        "dict": "Wörterbuch der deutschen Sprache",
+        "dictType": "synonyms",
+        "year": "2004",
+        "text": [
+          "Welpe",
+          "Kiebitz"
+        ]
+      },
+      {
+        "dict": "Wörterbuch der deutschen Sprache",
+        "dictType": "definitions",
+        "year": "2004",
+        "text": []
+      }
+    ]
+  },
+  {
+    "word": "Katze",
+    "word_en": "cat",
+    "type": "noun",
+    "singular": [
+      "Katze"
+    ],
+    "plural": [
+      "Kätzchen"
+    ],
+    "definitions": [
+      {
+        "dict": "Wörterbuch der deutschen Sprache",
+        "dictType": "synonyms",
+        "year": "2004",
+        "text": [
+          "Kater",
+          "Katzenartig"
+        ]
+      },
+      {
+        "dict": "Wörterbuch der deutschen Sprache",
+        "dictType": "definitions",
+        "year": "2004",
+        "text": []
+      }
+    ]
+  },
+  {
+    "word": "essen",
+    "word_en": "eat",
+    "type": "verb",
+    "singular": [
+      "esse",
+      "isst",
+      "isst"
+    ],
+    "plural": [
+      "essen",
+      "esst",
+      "essen"
+    ],
+    "definitions": [
+      {
+        "dict": "Wörterbuch der deutschen Sprache",
+        "dictType": "synonyms",
+        "year": "2004",
+        "text": [
+          "füttern",
+          "ernähren."
+        ]
+      },
+      {
+        "dict": "Wörterbuch der deutschen Sprache",
+        "dictType": "definitions",
+        "year": "2004",
+        "text": []
+      }
+    ]
+  },
+  {
+    "word": "gehen",
+    "word_en": "walk",
+    "type": "verb",
+    "singular": [
+      "gehe",
+      "gehst",
+      "geht"
+    ],
+    "plural": [
+      "gehen",
+      "geht",
+      "gehen"
+    ],
+    "definitions": [
+      {
+        "dict": "Wörterbuch der deutschen Sprache",
+        "dictType": "synonyms",
+        "year": "2004",
+        "text": [
+          "abdanken",
+          "abfahren"
+        ]
+      },
+      {
+        "dict": "Wörterbuch der deutschen Sprache",
+        "dictType": "definitions",
+        "year": "2004",
+        "text": []
+      }
+    ]
+  }
+]
